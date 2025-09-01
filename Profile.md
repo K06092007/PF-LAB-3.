@@ -4,3 +4,4 @@ Wekcome to my GITHUB profile
 + *This text is italics*\
 + ***This text is both bold and italics***\
 + ~~OOPS I made an error~~
++ 
